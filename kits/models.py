@@ -8,6 +8,6 @@ class Model(models.Model):
     price_us = models.DecimalField(max_digits=10, decimal_places=2)
     price_jp = models.DecimalField(max_digits=10, decimal_places=0)
     release_date = models.DateField()
-    box_art = models.CharField(max_length=300)
+    box_art = models.CharField(max_length=900)
     grade = models.CharField(max_length=150)
     scale = models.CharField(max_length=150)
