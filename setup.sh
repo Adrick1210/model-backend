@@ -7,4 +7,4 @@ set -o errexit
 pip install -r dependencies.txt
 
 ## Run migration just in case
-python ./models/manage.py migrate
+python manage.py migrate
