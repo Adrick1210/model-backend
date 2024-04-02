@@ -7,6 +7,7 @@ Trello Board
 - https://trello.com/b/XeFZt5Fu/model-meister
 
 Render Deploy
+- https://model-meister.onrender.com/kits/
 
 ## ERD
 ![Schema](./images/erd.png)
